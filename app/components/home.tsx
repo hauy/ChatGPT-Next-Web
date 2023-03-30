@@ -105,7 +105,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>Joyce AI</div>
           <div className={styles["sidebar-sub-title"]}>
-            Power by chatGPT from openAI.
+            Powered by chatGPT from openAI.
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
